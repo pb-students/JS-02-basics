@@ -1,9 +1,9 @@
-// let tab = [];
-// tab = randTab();
-// tab = findTheSmallest(tab);
-// tab = findTheBiggest(tab);
-// howManyAppearances(tab);
-// moveToEnd(tab);
+ let tab = [];
+ tab = randTab();
+ tab = findTheSmallest(tab);
+ tab = findTheBiggest(tab);
+ howManyAppearances(tab);
+ moveToEnd(tab);
 
 function randTab() {
   let sum = 0;
