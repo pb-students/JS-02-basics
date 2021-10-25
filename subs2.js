@@ -1,4 +1,4 @@
-// calculateCircuitAndArea()
+calculateCircuitAndArea()
 
 function calculateCircuitAndArea() {
   let s = prompt("Podaj długość promienia koła");
